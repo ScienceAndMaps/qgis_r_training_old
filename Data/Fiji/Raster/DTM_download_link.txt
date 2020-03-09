@@ -1,0 +1,1 @@
+https://github.com/st3powers/EarthEnv/raw/master/elevation_1KMmd_GMTEDmd.tif
